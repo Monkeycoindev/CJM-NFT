@@ -1,2 +1,2 @@
-# MonkeyCoinNFT
-MonkeyCoinNFT Collection 
+# CJM NFT collection
+CJM NFT collection
